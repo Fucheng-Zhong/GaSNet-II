@@ -3,7 +3,7 @@ The code of GaSNet-II.
 
 The dataset (SDSS) used is available in Huggingface: https://huggingface.co/datasets/Fucheng/GaSNet-II-SDSS-dataset/tree/main
 
-If any data and code in this repository are used, please cite arxiv: xxx.
+If any data and code in this repository are used, please cite: https://arxiv.org/abs/2311.04146.
 
 The paper's results are included in plot_results.ipynb.
 
